@@ -9,7 +9,9 @@ Team Size : 4
 Team Leader : SUDHIKSHA B
 
 Team member : AMALAN A
+
 Team member : ARJUN SHAKTHI C
+
 Team member : ABISHEK G
 
 ![SCRN SHOT](https://user-images.githubusercontent.com/113884582/202888779-9c8c7622-f4ee-4b50-8025-3b1f4168ddfd.jpg)
