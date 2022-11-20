@@ -21,7 +21,7 @@ Team member : ABISHEK G
 ![Screenshot 2022-11-20 115215](https://user-images.githubusercontent.com/113884582/202888979-418c938a-aa0c-4aba-b705-6f091230613d.jpg)
 ![Screenshot 2022-11-20 115127](https://user-images.githubusercontent.com/113884582/202889000-27cd3ca1-e3db-4391-b294-360ec3926ffc.jpg)
 
-# DEMO VIDEO LINK![Screenshot 2022-11-20 115305]
+# DEMO VIDEO LINK
 
 https://youtu.be/_VlHUKoO60g
 
