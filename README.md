@@ -23,7 +23,7 @@ Team member : ABISHEK G
 
 # DEMO VIDEO LINK
 
-https://youtu.be/_VlHUKoO60g
+https://drive.google.com/file/d/1RAOtK2ZcvgsTmmJfok3v2ltAdCuUc0DS/view?usp=share_link
 
 
 
